@@ -212,7 +212,7 @@ add more information to a Place `article`:
     - tag: `div`
     - classname: `description`
 The 5 CSS files:
-- `styles/4-common.css`: for the global style (i.e. `body` and `.container` style)
+- `styles/4-common.css`: for the global style (`body` and `.container` style)
 - `styles/3-header.css`: for the header style
 - `styles/3-footer.css`: for the footer style
 - `styles/6-filters.css`: for the filters style
